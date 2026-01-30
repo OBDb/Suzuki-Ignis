@@ -1,0 +1,27 @@
+references:
+  - "https://en.wikipedia.org/wiki/Suzuki_Ignis"
+
+generations:
+  - name: "First Generation (FH)"
+    start_year: 2000
+    end_year: 2006
+    description: "First series of the Ignis, manufactured as a three- and five-door hatchback. Powered by M family 1.3L (M13A) and 1.5L (M15A) inline-four petrol engines with DOHC, four valves per cylinder and variable valve timing. Model codes: HT51S (1.3L) and HT81S (1.5L). Transmission options included five-speed manual and four-speed automatic, with both FWD and AWD layouts available. Minor facelift in 2003 featured new wheel trims, revised grille insert and clear headlamp-mounted turn signal lenses."
+    platform: "Suzuki FH platform"
+
+  - name: "First Generation (MH) Facelift"
+    start_year: 2003
+    end_year: 2006
+    description: "Facelifted European version based on the Chevrolet Cruze platform. Suzuki extended the length by 200mm behind the rear axle to improve interior room and luggage space. Manufactured in Esztergom, Hungary by Magyar Suzuki. Also sold as Subaru G3X Justy in Europe. Engine options included 1.3L and 1.5L petrol, plus a Fiat 1.3L Multijet diesel. Available with FWD or AWD (manual transmission only for AWD)."
+    platform: "Suzuki MH platform"
+
+  - name: "Second Generation (MF)"
+    start_year: 2016
+    end_year: 2020
+    description: "Crossover-styled city car launched January 2016. Built on the HEARTECT A platform with styling cues from the Suzuki Cervo SS20 (1977). Powered by 1.25L K12C inline-four engine with optional mild hybrid system (SHVS) using 3Ah lithium-ion battery. Engine produces 91 PS and 118 Nm of torque. Transmission options: 5-speed manual or CVT, available in FWD or AWD (AllGrip) configuration."
+    platform: "HEARTECT A platform"
+
+  - name: "Second Generation (MF) Facelift"
+    start_year: 2020
+    end_year: present
+    description: "Facelifted version launched February 2020. Received new front and rear bumpers, revised grille with four slots flanking Suzuki logo, updated gauge cluster colour and fabric seats design. European models received new 1.2L K12D Dualjet mild hybrid engine producing 83 PS and 107 Nm, with enlarged 10Ah battery. AGS automated manual transmission replaced with CVT."
+    platform: "HEARTECT A platform"
